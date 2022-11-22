@@ -1,0 +1,32 @@
+.box1{
+    background-color: deeppink;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 450px;
+}
+
+.box2{
+    background-color: coral;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 450px;
+}
+
+.box3{
+    background-color: indianred;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 450px;
+}
+
+.box4{
+    background-color: khaki;
+    width: 20%;
+    margin: 3% 2.5%;
+    height: 450px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
